@@ -1,0 +1,260 @@
+Country,Date,Cumulative number of case(s),Number of deaths,Number recovered
+Australia,2003-04-03,1,0,0
+Belgium,2003-04-03,1,0,0
+Brazil,2003-04-03,1,0,0
+Canada,2003-04-03,62,6,0
+China,2003-04-03,1190,46,0
+"Hong Kong SAR, China",2003-04-03,734,17,0
+"Taiwan, China",2003-04-03,14,0,0
+France,2003-04-03,3,0,0
+Germany,2003-04-03,5,0,0
+Italy,2003-04-03,3,0,0
+Republic of Ireland,2003-04-03,1,0,0
+Romania,2003-04-03,1,0,0
+Singapore,2003-04-03,98,4,0
+Switzerland,2003-04-03,2,0,0
+Thailand,2003-04-03,7,2,0
+United Kingdom,2003-04-03,3,0,0
+United States,2003-04-03,85,0,0
+Viet Nam,2003-04-03,59,4,0
+Australia,2003-04-23,4,0,3
+Brazil,2003-04-23,2,0,0
+Canada,2003-04-23,140,13,65
+China,2003-04-23,2305,106,1231
+"Hong Kong SAR, China",2003-04-23,1458,105,522
+"Taiwan, China",2003-04-23,37,0,21
+France,2003-04-23,5,0,1
+Germany,2003-04-23,7,0,6
+India,2003-04-23,1,0,1
+Indonesia,2003-04-23,1,0,0
+Italy,2003-04-23,3,0,2
+Japan,2003-04-23,2,0,0
+Kuwait,2003-04-23,1,0,1
+Malaysia,2003-04-23,5,2,2
+Mongolia,2003-04-23,3,0,3
+Philippines,2003-04-23,2,1,1
+Republic of Ireland,2003-04-23,1,0,1
+Romania,2003-04-23,1,0,1
+Singapore,2003-04-23,189,17,114
+South Africa,2003-04-23,1,0,0
+Spain,2003-04-23,1,0,0
+Sweden,2003-04-23,3,0,0
+Switzerland,2003-04-23,1,0,1
+Thailand,2003-04-23,7,2,5
+United Kingdom,2003-04-23,6,0,5
+United States,2003-04-23,39,0,0
+Viet Nam,2003-04-23,63,5,46
+Brazil,2003-05-03,2,0,2
+Bulgaria,2003-05-03,1,0,0
+Canada,2003-05-03,149,22,94
+China,2003-05-03,3971,190,1406
+"Hong Kong SAR, China",2003-05-03,1621,179,898
+"Macao SAR, China",2003-05-03,1,0,0
+"Taiwan, China",2003-05-03,100,8,25
+France,2003-05-03,5,0,4
+Germany,2003-05-03,7,0,7
+Indonesia,2003-05-03,2,0,1
+Italy,2003-05-03,9,0,4
+Kuwait,2003-05-03,1,0,1
+Malaysia,2003-05-03,6,2,3
+Mongolia,2003-05-03,8,0,4
+New Zealand,2003-05-03,1,0,1
+Philippines,2003-05-03,3,2,1
+Poland,2003-05-03,1,0,0
+Republic of Ireland,2003-05-03,1,0,1
+Republic of Korea,2003-05-03,1,0,0
+Romania,2003-05-03,1,0,1
+Singapore,2003-05-03,203,25,147
+South Africa,2003-05-03,1,0,1
+Spain,2003-05-03,1,0,1
+Sweden,2003-05-03,3,0,2
+Switzerland,2003-05-03,1,0,1
+Thailand,2003-05-03,7,2,5
+United Kingdom,2003-05-03,6,0,6
+United States,2003-05-03,54,0,24
+Viet Nam,2003-05-03,63,5,58
+Brazil,2003-05-13,2,0,2
+Bulgaria,2003-05-13,1,0,0
+Canada,2003-05-13,143,22,99
+China,2003-05-13,5086,262,1765
+"Hong Kong SAR, China",2003-05-13,1689,225,1090
+"Macao SAR, China",2003-05-13,1,0,0
+"Taiwan, China",2003-05-13,207,24,30
+Colombia,2003-05-13,1,0,1
+Finland,2003-05-13,1,0,0
+France,2003-05-13,7,0,4
+Germany,2003-05-13,9,0,9
+India,2003-05-13,3,0,0
+Indonesia,2003-05-13,2,0,1
+Italy,2003-05-13,9,0,9
+Kuwait,2003-05-13,1,0,1
+Malaysia,2003-05-13,7,2,4
+Mongolia,2003-05-13,9,0,6
+New Zealand,2003-05-13,1,0,1
+Philippines,2003-05-13,10,2,3
+Republic of Ireland,2003-05-13,1,0,1
+Republic of Korea,2003-05-13,2,0,1
+Romania,2003-05-13,1,0,1
+Singapore,2003-05-13,205,28,157
+South Africa,2003-05-13,1,1,0
+Spain,2003-05-13,1,0,1
+Sweden,2003-05-13,3,0,3
+Switzerland,2003-05-13,1,0,1
+Thailand,2003-05-13,7,2,5
+United Kingdom,2003-05-13,4,0,4
+United States,2003-05-13,64,0,35
+Viet Nam,2003-05-13,63,5,58
+Brazil,2003-05-23,2,0,2
+Canada,2003-05-23,140,23,109
+China,2003-05-23,5285,303,2544
+"Hong Kong SAR, China",2003-05-23,1724,260,1255
+"Macao SAR, China",2003-05-23,2,0,0
+"Taiwan, China",2003-05-23,538,60,82
+Colombia,2003-05-23,1,0,1
+Finland,2003-05-23,1,0,1
+France,2003-05-23,7,0,6
+Germany,2003-05-23,9,0,9
+India,2003-05-23,3,0,3
+Indonesia,2003-05-23,2,0,2
+Italy,2003-05-23,9,0,9
+Kuwait,2003-05-23,1,0,1
+Malaysia,2003-05-23,8,2,5
+Mongolia,2003-05-23,9,0,8
+New Zealand,2003-05-23,1,0,1
+Philippines,2003-05-23,12,2,10
+Republic of Ireland,2003-05-23,1,0,1
+Republic of Korea,2003-05-23,3,0,2
+Romania,2003-05-23,1,0,1
+Singapore,2003-05-23,206,31,163
+South Africa,2003-05-23,1,1,0
+Spain,2003-05-23,1,0,1
+Sweden,2003-05-23,3,0,3
+Switzerland,2003-05-23,1,0,1
+Thailand,2003-05-23,8,2,5
+United Kingdom,2003-05-23,4,0,4
+United States,2003-05-23,65,0,33
+Viet Nam,2003-05-23,63,5,58
+Brazil,2003-06-03,2,0,2
+Canada,2003-06-03,213,31,116
+China,2003-06-03,5329,334,3558
+"Hong Kong SAR, China",2003-06-03,1747,283,1326
+"Macao SAR, China",2003-06-03,1,0,1
+"Taiwan, China",2003-06-03,679,81,136
+Colombia,2003-06-03,1,0,1
+Finland,2003-06-03,1,0,1
+France,2003-06-03,7,0,6
+Germany,2003-06-03,10,0,9
+India,2003-06-03,3,0,3
+Indonesia,2003-06-03,2,0,2
+Italy,2003-06-03,9,0,9
+Kuwait,2003-06-03,1,0,1
+Malaysia,2003-06-03,5,2,3
+Mongolia,2003-06-03,9,0,9
+New Zealand,2003-06-03,1,0,1
+Philippines,2003-06-03,12,2,10
+Republic of Ireland,2003-06-03,1,0,1
+Republic of Korea,2003-06-03,3,0,3
+Romania,2003-06-03,1,0,1
+Russian Federation,2003-06-03,1,0,0
+Singapore,2003-06-03,206,31,165
+South Africa,2003-06-03,1,1,0
+Spain,2003-06-03,1,0,1
+Sweden,2003-06-03,3,0,3
+Switzerland,2003-06-03,1,0,1
+Thailand,2003-06-03,8,2,6
+United Kingdom,2003-06-03,4,0,4
+United States,2003-06-03,68,0,33
+Viet Nam,2003-06-03,63,5,58
+Brazil,2003-06-13,3,0,2
+Canada,2003-06-13,242,32,150
+China,2003-06-13,5327,343,4530
+"Hong Kong SAR, China",2003-06-13,1755,293,1380
+"Macao SAR, China",2003-06-13,1,0,1
+"Taiwan, China",2003-06-13,693,81,385
+Colombia,2003-06-13,1,0,1
+Finland,2003-06-13,1,0,1
+France,2003-06-13,7,0,6
+Germany,2003-06-13,10,0,9
+India,2003-06-13,3,0,3
+Indonesia,2003-06-13,2,0,2
+Italy,2003-06-13,9,0,9
+Kuwait,2003-06-13,1,0,1
+Malaysia,2003-06-13,5,2,3
+Mongolia,2003-06-13,9,0,9
+New Zealand,2003-06-13,1,0,1
+Philippines,2003-06-13,14,2,12
+Republic of Ireland,2003-06-13,1,0,1
+Republic of Korea,2003-06-13,3,0,3
+Romania,2003-06-13,1,0,1
+Russian Federation,2003-06-13,1,0,0
+Singapore,2003-06-13,206,31,169
+South Africa,2003-06-13,1,1,0
+Spain,2003-06-13,1,0,1
+Sweden,2003-06-13,3,0,3
+Switzerland,2003-06-13,1,0,1
+Thailand,2003-06-13,9,2,6
+United Kingdom,2003-06-13,4,0,4
+United States,2003-06-13,71,0,36
+Viet Nam,2003-06-13,63,5,58
+Brazil,2003-06-23,3,0,2
+Canada,2003-06-23,246,35,182
+China,2003-06-23,5326,347,4895
+"Hong Kong SAR, China",2003-06-23,1755,296,1411
+"Macao SAR, China",2003-06-23,1,0,1
+"Taiwan, China",2003-06-23,692,84,486
+Colombia,2003-06-23,1,0,1
+Finland,2003-06-23,1,0,1
+France,2003-06-23,7,0,6
+Germany,2003-06-23,10,0,9
+India,2003-06-23,3,0,3
+Indonesia,2003-06-23,2,0,2
+Italy,2003-06-23,9,0,9
+Kuwait,2003-06-23,1,0,1
+Malaysia,2003-06-23,5,2,3
+Mongolia,2003-06-23,9,0,9
+New Zealand,2003-06-23,1,0,1
+Philippines,2003-06-23,14,2,12
+Republic of Ireland,2003-06-23,1,0,1
+Republic of Korea,2003-06-23,3,0,3
+Romania,2003-06-23,1,0,1
+Russian Federation,2003-06-23,1,0,0
+Singapore,2003-06-23,206,31,170
+South Africa,2003-06-23,1,1,0
+Spain,2003-06-23,1,0,1
+Sweden,2003-06-23,3,0,3
+Switzerland,2003-06-23,1,0,1
+Thailand,2003-06-23,9,2,7
+United Kingdom,2003-06-23,4,0,4
+United States,2003-06-23,74,0,36
+Viet Nam,2003-06-23,63,5,58
+Brazil,2003-07-03,1,0,1
+Canada,2003-07-03,251,38,193
+China,2003-07-03,5327,348,4933
+"Hong Kong SAR, China",2003-07-03,1755,298,1429
+"Macao SAR, China",2003-07-03,1,0,1
+"Taiwan, China",2003-07-03,674,84,498
+Colombia,2003-07-03,1,0,1
+Finland,2003-07-03,1,0,1
+France,2003-07-03,7,0,6
+Germany,2003-07-03,10,0,9
+India,2003-07-03,3,0,3
+Indonesia,2003-07-03,2,0,2
+Italy,2003-07-03,4,0,4
+Kuwait,2003-07-03,1,0,1
+Malaysia,2003-07-03,5,2,3
+Mongolia,2003-07-03,9,0,9
+New Zealand,2003-07-03,1,0,1
+Philippines,2003-07-03,14,2,12
+Republic of Ireland,2003-07-03,1,0,1
+Republic of Korea,2003-07-03,3,0,3
+Romania,2003-07-03,1,0,1
+Russian Federation,2003-07-03,1,0,0
+Singapore,2003-07-03,206,32,171
+South Africa,2003-07-03,1,1,0
+Spain,2003-07-03,1,0,1
+Sweden,2003-07-03,3,0,3
+Switzerland,2003-07-03,1,0,1
+Thailand,2003-07-03,9,2,7
+United Kingdom,2003-07-03,4,0,4
+United States,2003-07-03,73,0,65
+Viet Nam,2003-07-03,63,5,58
